@@ -1,0 +1,3 @@
+staffID,username,hashedPassword
+5,staffmember1,sha512:120000:48:Dwn+NO5YkpbX6Lc4HuB4hyu3Ou6+5EMlipxkl1xrvuo2acRTAMfrdMgaCqwUCjcyvA/cR248FqKYMvpRRU5Nxg==:MCZTBOn/snlEg2LFEVwG24w0zcf1+T61tCr0abXob68EAaVgcpwuQjziuFgy1ZaT
+6,staffmember2,sha512:120000:48:HLxkaNOa+g359Ux5mmLqm4LxISl9OWBZKinwA+gin98fqDHSsubq9R3Zg134pzQ4RqiBPE79d8FzP8UEo5F30g==:OErPxoPClPm4BGfhmtirFjlCNyo4PHR8/YsIsEC07MgvV34LI3um+COmdtZci2s0
